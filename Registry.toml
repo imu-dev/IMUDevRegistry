@@ -1,0 +1,6 @@
+name = "IMUDevRegistry"
+uuid = "c139df45-d195-4242-ac49-9ed957251581"
+repo = "git@github.com:imu-dev/IMUDevRegistry.git"
+description = "Julia local registry for the imu.dev project"
+
+[packages]
