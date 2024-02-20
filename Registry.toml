@@ -4,3 +4,4 @@ repo = "git@github.com:imu-dev/IMUDevRegistry.git"
 description = "Julia local registry for the imu.dev project"
 
 [packages]
+f8493c61-e13b-4f15-934e-c0b2dbef8231 = { name = "IMUDevNNTrainingLib", path = "I/IMUDevNNTrainingLib" }
