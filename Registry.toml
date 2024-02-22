@@ -5,4 +5,5 @@ description = "Julia local registry for the imu.dev project"
 
 [packages]
 295d651b-8f3c-4826-af69-6cde381c7ec2 = { name = "IMUDevNNLib", path = "I/IMUDevNNLib" }
+bcf5af51-d7d5-4464-a2f2-1f49491032f8 = { name = "IMUDevStateSpaceModels", path = "I/IMUDevStateSpaceModels" }
 f8493c61-e13b-4f15-934e-c0b2dbef8231 = { name = "IMUDevNNTrainingLib", path = "I/IMUDevNNTrainingLib" }

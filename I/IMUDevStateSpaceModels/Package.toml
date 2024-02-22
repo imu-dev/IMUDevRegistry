@@ -1,0 +1,3 @@
+name = "IMUDevStateSpaceModels"
+uuid = "bcf5af51-d7d5-4464-a2f2-1f49491032f8"
+repo = "git@github.com:imu-dev/IMUDevStateSpaceModels.jl.git"
