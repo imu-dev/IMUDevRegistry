@@ -1,2 +1,7 @@
 [0]
 julia = "1.10.0-1"
+
+["0.3.1-0"]
+Distributions = "0.25"
+RecipesBase = "1"
+Term = "2"
