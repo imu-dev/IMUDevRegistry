@@ -5,3 +5,6 @@ julia = "1.10.0-1"
 Distributions = "0.25"
 RecipesBase = "1"
 Term = "2"
+
+["0.3.2-0"]
+IMUDevTools = "0.1"

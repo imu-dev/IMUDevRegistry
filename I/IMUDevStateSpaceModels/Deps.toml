@@ -6,3 +6,6 @@ Term = "22787eb5-b846-44ae-b979-8e399b8463ab"
 
 ["0.2-0"]
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+
+["0.3.2-0"]
+IMUDevTools = "a6ef59df-abd5-46d7-8996-31ff8324aac5"
