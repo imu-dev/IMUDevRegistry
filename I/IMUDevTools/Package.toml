@@ -1,0 +1,3 @@
+name = "IMUDevTools"
+uuid = "a6ef59df-abd5-46d7-8996-31ff8324aac5"
+repo = "https://github.com/imu-dev/IMUDevTools.jl.git"
